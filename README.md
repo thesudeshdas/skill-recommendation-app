@@ -1,7 +1,3 @@
-# skill-recommendation-app
-Created with CodeSandbox
-
-
 # Skill Recommendation App
 A React app which recommends top skills to learn along with various resource lists.
 
